@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\obj\Debug\SugarGuard.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\bin\Debug\SugarGuard.exe.config
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\bin\Debug\SugarGuard.exe
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\bin\Debug\SugarGuard.pdb
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\bin\Debug\dnlib.dll
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\bin\Debug\dnlib.xml
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\obj\Debug\SugarGuard.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\obj\Debug\SugarGuard.exe
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\obj\Debug\SugarGuard.pdb
+C:\Users\Gabriel\Desktop\SG\src\SugarGuard\SugarGuard\obj\Debug\SugarGuard.csprojAssemblyReference.cache
